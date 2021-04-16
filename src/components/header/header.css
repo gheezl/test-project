@@ -1,0 +1,7 @@
+#headerBorder {
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+    background-color: whitesmoke;
+    border-bottom: 1px solid black;
+}
